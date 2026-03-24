@@ -1,5 +1,5 @@
 // Copyright 2021 NNTU-CS
-
+#include <cstdint>
 int binSearch(int* arr, int len, int value) {
 	int left = 0;
 	int right = len - 1;
